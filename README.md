@@ -15,6 +15,6 @@ I'm a passionate frontend developer with a keen interest in creating responsive 
 ## Get in Touch
 
 - LinkedIn: -
-- Email: youremail@example.com
+- Email: devanfmr131@gmail.com
 
 Feel free to reach out to me if you have any questions or collaboration opportunities!
