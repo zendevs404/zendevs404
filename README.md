@@ -14,7 +14,7 @@ I'm a passionate frontend developer with a keen interest in creating responsive 
 
 ## Get in Touch
 
-- LinkedIn: -
+- LinkedIn: https://www.linkedin.com/in/devananda-fikri-muhammad-rafi/
 - Email: devanfmr131@gmail.com
 
 Feel free to reach out to me if you have any questions or collaboration opportunities!
