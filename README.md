@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate frontend developer with a keen interest in creating responsive and user-friendly web applications. I have interested with modern frontend technologies like Vue.js. Additionally, I also have some backend skills, particularly in Node.js, which allows me to develop full-stack applications.
+I'm a passionate frontend developer with a and interest in creating responsive and user-friendly web applications. I have interested with modern frontend technologies like Vue.js. Additionally, I also have some backend skills, particularly in Node.js, which allows me to develop full-stack applications.
 
 ## Skills
 
