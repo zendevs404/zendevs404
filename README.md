@@ -6,8 +6,8 @@ I'm a passionate frontend developer with a and interest in creating responsive a
 
 ## Skills
 
-- **Languages:** HTML, CSS, JavaScript
-- **Frontend:** Vue.js, Sass/Less, Bootstrap
+- **Languages:** HTML, CSS, JavaScript, TypeScript
+- **Frontend:** React, Sass/Less, Bootstrap, AntDesign
 - **Backend:** Node.js
 - **Database:** MySQL
 - **Tools & Others:** Git, RESTful APIs
