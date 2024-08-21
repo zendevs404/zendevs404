@@ -9,6 +9,7 @@ I'm a passionate frontend developer with a and interest in creating responsive a
 - **Languages:** HTML, CSS, JavaScript, TypeScript
 - **Frontend:** React, Sass/Less, Bootstrap, AntDesign
 - **Backend:** Node.js
+- **Design tools:** Figma
 - **Database:** MySQL
 - **Tools & Others:** Git, RESTful APIs
 
